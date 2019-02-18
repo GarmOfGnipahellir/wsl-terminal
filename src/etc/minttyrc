@@ -11,3 +11,4 @@ BellType=0
 BellTaskbar=no
 Printer=*
 Language=@
+ThemeFile=nord.minttyrc
